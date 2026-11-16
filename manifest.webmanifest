@@ -1,0 +1,25 @@
+{
+  "name": "UKPPPG Study Hub 2026",
+  "short_name": "UKPPPG Hub",
+  "description": "Materi PCK IPS, latihan UTBK, UKin, dan wawancara calon guru",
+  "lang": "id",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f5f8fb",
+  "theme_color": "#172653",
+  "icons": [
+    {
+      "src": "./logo-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./logo-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
